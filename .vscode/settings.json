@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./hexapod_core"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
